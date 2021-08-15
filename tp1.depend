@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628902778 source:c:\users\sabri\onedrive\documentos\programacion\tp1\exercises.c
+
+1629062906 source:c:\users\sabri\onedrive\documentos\programacion\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1628904390 source:c:\users\sabri\onedrive\documentos\programacion\tp1\exercises2.c
+
