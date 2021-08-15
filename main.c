@@ -21,29 +21,6 @@ persona cargarPersona();
 
 int main()
 {
-    /*
-        char *s = NULL;
-
-        agregaString(&s, " Algo ");
-        printf("\n -- %s", s);
-
-        agregaString(&s, " Otra cosa ");
-        printf("\n -- %s", s);
-
-        agregaString(&s, " algo mas ");
-        printf("\n -- %s", s);
-
-        char palabra[DIMENSION];
-        int validos = cargarArregloChar(palabra, DIMENSION);
-        mostrarArregloChar(palabra, validos);
-        */
-
-
-    int x=9;
-    float y=44.6;
-    char c='a';
-    datos(&x, &y, &c);
-    printf("%d %f %c",x, y, c);
 
     return 0;
 }
